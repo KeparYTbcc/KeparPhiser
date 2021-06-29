@@ -52,17 +52,7 @@ kill_pid() {
 ## Banner
 banner() {
 	cat <<- EOF
-		${ORANGE}
-		${ORANGE}  _  __                     
-		${ORANGE} | |/ /                     
-		${ORANGE} | ' / ___ _ __   __ _ _ __ 
-		${ORANGE} |  < / _ \ '_ \ / _` | '__|
-		${ORANGE} | . \  __/ |_) | (_| | |  
-		${ORANGE} |_|\_\___| .__/ \__,_|_| 
-		${ORANGE}          | |                             
-		${ORANGE}          |_|            ${RED}Version : 2.1
-
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${ORANGE} Kepar Phisher :)
 	EOF
 }
 
